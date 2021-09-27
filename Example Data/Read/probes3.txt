@@ -1,0 +1,5 @@
+Ilość średnich z przedziału 0-1: 3
+Ilość średnich z przedziału 1-2: 3
+Ilość średnich z przedziału 2-3: 5
+Ilość średnich z przedziału 3-4: 5
+Ilość średnich z przedziału 4-5: 4
